@@ -9,7 +9,7 @@ from utils.file_ops import save_as_dataframe, setup_log
 from utils.plot_util import plot_distribution
 from utils.dataloaders_utils import set_few_shot_loader, set_val_loader, set_ood_loader_ImageNet
 from utils.id_like import get_prompts, get_result, load_model
-#
+#啊啊啊
 
 def process_args():
     parser = argparse.ArgumentParser(description='Evaluates OOD for CLIP',
